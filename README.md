@@ -10,7 +10,7 @@ This is our first repository of this year. (hopefully the first of many!)
 |-------|-----------|
 |Sean |Hello! Welcome to James Logan Computer Science Club!   |
 |Rayna |I'm Riya's sister!   |
-|   |   |
+|Leo| |I'm amazing at math but bad at computer science!|
 |   |   |
 |   |   |
 |   |   |
