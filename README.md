@@ -8,9 +8,9 @@ This is our first repository of this year. (hopefully the first of many!)
 
 |Name   |Sentence   |
 |-------|-----------|
-|Sean |Hello! Welcome to James Logan Computer Science Club!   |
+|Sean  |Hello! Welcome to James Logan Computer Science Club!   |
 |Rayna |I'm Riya's sister!   |
-|Leo| |Hello World!|
+|Leo   |Hello World!|
 |   |   |
 |   |   |
 |   |   |
