@@ -6,10 +6,13 @@
 ## Welcome to the James Logan Computer Science Club! 
 This is our first repository of this year. (hopefully the first of many!)
 
+If you haven't already, please add to the table by entering your name and a sentence (it could be anything) on the next column.
+
 |Name   |Sentence   |
 |-------|-----------|
-|Sean |Hello! Welcome to James Logan Computer Science Club!   |
-| Arvin  | Hey! It's Sean's Sister!  |
+|Sean   |Hello! Welcome to James Logan Computer Science Club!   |
+|Arvin  |Hey! It's Sean's Sister!  |
+|Rayna  |I'm Riya's sister!   |
 |   |   |
 |   |   |
 |   |   |
