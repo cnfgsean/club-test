@@ -10,9 +10,10 @@ If you haven't already, please add to the table by entering your name and a sent
 
 |Name   |Sentence   |
 |-------|-----------|
-|Sean |Hello! Welcome to James Logan Computer Science Club!   |
-|Rayna |I'm Riya's sister!   |
-|Eric |I have no friends  |
+|Sean   |Hello! Welcome to James Logan Computer Science Club!   |
+|Arvin  |Hey! It's Sean's Sister!  |
+|Rayna  |I'm Riya's sister!   |
+|Eric   |I have no friends  |
 |   |   |
 |   |   |
 |   |   |
