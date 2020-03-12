@@ -14,6 +14,7 @@ If you haven't already, please add to the table by entering your name and a sent
 |Rayna |I'm Riya's sister!   |
 |Leo   |Hello World!|
 |Arvin  |Hey! It's Sean's Sister!  |
+|Eric   |I have no friends  |
 |   |   |
 |   |   |
 |   |   |
