@@ -10,13 +10,14 @@ If you haven't already, please add to the table by entering your name and a sent
 
 |Name   |Sentence   |
 |-------|-----------|
-|Sean   |Hello! Welcome to James Logan Computer Science Club!   |
+|Sean  |Hello! Welcome to James Logan Computer Science Club!   |
+|Rayna |I'm Riya's sister!   |
+|Leo   |Hello World!|
 |Arvin  |Hey! It's Sean's Sister!  |
-|Rayna  |I'm Riya's sister!   |
 |   |   |
 |   |   |
 |   |   |
 |   |   |
 |   |   |
 |   |   |
-|   |   |
+##Question: How to play checkers? Write rules in comments (Suggestion so we can work together)
