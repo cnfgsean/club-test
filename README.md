@@ -10,7 +10,7 @@ This is our first repository of this year. (hopefully the first of many!)
 |-------|-----------|
 |Sean |Hello! Welcome to James Logan Computer Science Club!   |
 |   |   |
-|   |   |
+|Eric |A text based dungeon crawler, because why not   |
 |   |   |
 |   |   |
 |   |   |
