@@ -12,7 +12,7 @@ If you haven't already, please add to the table by entering your name and a sent
 |-------|-----------|
 |Sean |Hello! Welcome to James Logan Computer Science Club!   |
 |Rayna |I'm Riya's sister!   |
-|   |   |
+|Eric |I have no friends  |
 |   |   |
 |   |   |
 |   |   |
