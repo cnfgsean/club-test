@@ -17,3 +17,4 @@ This is our first repository of this year. (hopefully the first of many!)
 |   |   |
 |   |   |
 |   |   |
+##Question: How to play checkers? Write rules in comments (Suggestion so we can work together)
