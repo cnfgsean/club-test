@@ -9,7 +9,7 @@ This is our first repository of this year. (hopefully the first of many!)
 |Name   |Sentence   |
 |-------|-----------|
 |Sean |Hello! Welcome to James Logan Computer Science Club!   |
-|   |   |
+| Arvin  | Hey! It's Sean's Sister!  |
 |   |   |
 |   |   |
 |   |   |
