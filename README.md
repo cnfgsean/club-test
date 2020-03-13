@@ -15,7 +15,7 @@ If you haven't already, please add to the table by entering your name and a sent
 |Leo   |Hello World!|
 |Arvin  |Hey! It's Sean's Sister!  |
 |Eric   |I have no friends  |
-|   |   |
+|Lucas   |I don't know what to write   |
 |   |   |
 |   |   |
 |   |   |
